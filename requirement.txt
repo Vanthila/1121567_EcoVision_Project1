@@ -1,1 +1,5 @@
-Python with libraries:
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow
